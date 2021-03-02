@@ -1,2 +1,2 @@
-# optymalizacja
-Skrypt napisany w rok, na optymalizacje serwera!
+# server crasher
+Skrypt napisany w rok, na zcrashowanie serwera!
